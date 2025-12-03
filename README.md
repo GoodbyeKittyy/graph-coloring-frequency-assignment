@@ -118,20 +118,21 @@ int main() {
 
 ```
 graph-coloring-frequency-assignment/
-├── graph_coloring.py          # Main Python implementation
-├── graph_coloring.cpp         # High-performance C++ version
-├── visualizer.html            # Web-based visualization
-├── requirements.txt           # Python dependencies
+├── graph_coloring.py
+├── graph_coloring.cpp
+├── requirements.txt
+├── README.md
+├── GIT_SETUP_GUIDE.md
+├── .gitignore
+├── visualizer/
+│   ├── index.html              # Main HTML file
+│   ├── FrequencyVisualizer.tsx # React component (TypeScript)
+│   └── README.md               # How to run the visualizer
 ├── tests/
-│   ├── test_algorithms.py     # Unit tests
-│   └── benchmark.py           # Performance benchmarks
-├── examples/
-│   ├── cellular_network.py    # Cellular tower example
-│   ├── iot_deployment.py      # IoT sensor network
-│   └── wifi_optimization.py   # WiFi channel assignment
-├── data/
-│   └── sample_networks/       # Pre-generated test networks
-└── README.md
+│   ├── test_algorithms.py
+│   └── benchmark.py
+└── examples/
+    └── basic_usage.py
 ```
 
 ## 🔬 Algorithms Explained
