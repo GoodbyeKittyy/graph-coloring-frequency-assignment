@@ -5,7 +5,8 @@
 [![C++17](https://img.shields.io/badge/C++-17-blue.svg)](https://isocpp.org/)
 
 </br>
-<img width="680" height="548" alt="image" src="https://github.com/user-attachments/assets/355b0294-5ee1-4370-ac40-6536668e2ca8" />
+<img width="767" height="557" alt="image" src="https://github.com/user-attachments/assets/f567d9c6-ce77-4ebb-afb1-2dbdd4461d3a" />
+
 </br>
 
 Industrial-grade solution for optimal radio frequency assignment in cellular networks and IoT deployments. Uses advanced graph coloring heuristics to minimize frequency reuse conflicts while maximizing coverage efficiency.
