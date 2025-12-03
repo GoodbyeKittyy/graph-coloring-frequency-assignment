@@ -335,12 +335,6 @@ This project is licensed under the MIT License - see `LICENSE` file for details.
 - Welsh-Powell algorithm (1967)
 - Inspired by real-world telecom deployments
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/graph-coloring-frequency-assignment/issues)
-- **Email**: your.email@example.com
-- **Documentation**: [Full docs](https://docs.example.com)
-
 ## 🔮 Roadmap
 
 - [ ] GPU acceleration for 1M+ node networks
@@ -360,19 +354,4 @@ Tested on Intel i7-10700K @ 3.8GHz:
 | 100,000 nodes| DSATUR    | 45s   | 650 MB |
 | 100,000 nodes| C++ DSATUR| 8.2s  | 380 MB |
 
-## 📖 Citation
 
-If you use this in research, please cite:
-
-```bibtex
-@software{graph_coloring_freq,
-  title = {Advanced Graph Coloring for Network Frequency Assignment},
-  author = {Your Name},
-  year = {2024},
-  url = {https://github.com/yourusername/graph-coloring-frequency-assignment}
-}
-```
-
----
-
-**Made with ❤️ for network optimization**
