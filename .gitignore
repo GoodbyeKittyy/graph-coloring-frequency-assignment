@@ -1,0 +1,167 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# C++
+*.o
+*.out
+*.exe
+*.app
+*.obj
+*.dll
+*.so
+*.dylib
+graph_coloring
+a.out
+
+# IDE - VSCode
+.vscode/
+*.code-workspace
+
+# IDE - PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# IDE - Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# IDE - Vim
+*.swp
+*.swo
+*~
+
+# OS - macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# OS - Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# OS - Linux
+*~
+.directory
+
+# Output files (but keep sample networks)
+data/output/*.json
+data/output/*.png
+data/output/*.csv
+*.json
+*.png
+*.csv
+!data/sample_networks/*.json
+!data/sample_networks/*.png
+
+# Logs
+*.log
+logs/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment variables
+.env
+.env.local
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+*.backup
+
+# Documentation builds
+docs/_build/
+docs/.doctrees/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# profiling data
+*.prof
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Compiled binaries
+bin/
+obj/
+
+# Node modules (if you add any JS tooling)
+node_modules/
+package-lock.json
+
+# Build artifacts
+*.a
+*.lib
+
+# macOS specific
+.Spotlight-V100
+.Trashes
+
+# Project specific
+frequency_assignment.json
+frequency_assignment_cpp.json
+cellular_network_result.json
+benchmark_scaling.png
+verify.sh
