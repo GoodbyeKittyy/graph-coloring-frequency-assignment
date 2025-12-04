@@ -354,5 +354,6 @@ Tested on Intel i7-10700K @ 3.8GHz:
 | 100,000 nodes| DSATUR    | 45s   | 650 MB |
 | 100,000 nodes| C++ DSATUR| 8.2s  | 380 MB |
 
+---
 
 **Star ⭐ this repository if you find it useful!**
